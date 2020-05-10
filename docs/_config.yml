@@ -2,4 +2,9 @@ theme: jekyll-theme-cayman
 title: ["Latex: écrire en Arabe et en Français"]
 description: [A short description of your site's purpose]
 show_downloads: [false]
-#google_analytics: [Your Google Analytics tracking ID]
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
