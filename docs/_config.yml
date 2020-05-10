@@ -2,9 +2,11 @@ theme: jekyll-theme-cayman
 title: ["Latex: écrire en Arabe et en Français"]
 description: [A short description of your site's purpose]
 show_downloads: [false]
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
