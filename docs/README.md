@@ -1,21 +1,21 @@
 ## Configuration requise
 Sur votre PC:
 * Distribution Latex:
-  * [TexLive](http://www.tug.org/texlive/) (GNU/Linux, Windows, MacOSX)
-  * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
-  * [MacTex](http://www.tug.org/mactex/) (MacOSX).
+  * [TexLive](http://www.tug.org/texlive/){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [MikTex](https://miktex.org/download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [MacTex](http://www.tug.org/mactex/){:target="_blank"} (MacOSX).
 * Éditeur Latex:
-  * [Texstudio](https://www.texstudio.org/#download) (GNU/Linux, Windows, MacOSX)
-  * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html) (GNU/Linux, Windows, MacOSX)
-  * [TeXworks](https://www.tug.org/texworks/#Getting_TeXworks) (GNU/Linux, Windows, MacOSX)
-  * [Kile](https://kile.sourceforge.io/download.php) (GNU/Linux, Windows)
-  * [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation) (GNU/Linux)
-  * [WinEdt](http://www.winedt.com/download.html) (Windows)
-  * [WinShell](http://www.winshell.org/download.html) (Windows)
-  * [TeXnicCenter](https://www.texniccenter.org/download/) (Windows)
-  * [TeXShop](https://pages.uoregon.edu/koch/texshop/obtaining.html) (MacOSX)
+  * [Texstudio](https://www.texstudio.org/#download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [TeXworks](https://www.tug.org/texworks/#Getting_TeXworks){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [Kile](https://kile.sourceforge.io/download.php){:target="_blank"} (GNU/Linux, Windows)
+  * [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation){:target="_blank"} (GNU/Linux)
+  * [WinEdt](http://www.winedt.com/download.html){:target="_blank"} (Windows)
+  * [WinShell](http://www.winshell.org/download.html){:target="_blank"} (Windows)
+  * [TeXnicCenter](https://www.texniccenter.org/download/){:target="_blank"} (Windows)
+  * [TeXShop](https://pages.uoregon.edu/koch/texshop/obtaining.html){:target="_blank"} (MacOSX)
 
-Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com).
+Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com){:target="_blank"}.
 
 ## Fichier minimal pour l'édition en Arabe
 
