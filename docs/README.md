@@ -4,9 +4,15 @@
   * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
   * [MacTex](http://www.tug.org/mactex/) (MacOSX).
 * Éditeur Latex:
-  * Texstudio
-  * Texmaker
-  *
+  * Texstudio (GNU/Linux, Windows, MacOSX)
+  * Texmaker (GNU/Linux, Windows, MacOSX)
+  * TeXworks (GNU/Linux, Windows, MacOSX)
+  * GNOME LaTeX (GNU/Linux)
+  * Kile (GNU/Linux)
+  * WinEdt (Windows)
+  * WinShell (Windows)
+  * TeXnicCenter (Windows)
+  * TeXShop (MacOSX)
 
 You can use the [editor on GitHub](https://github.com/darkyass/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
