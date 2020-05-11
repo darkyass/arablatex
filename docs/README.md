@@ -17,6 +17,8 @@ Sur votre PC:
 
 Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com){:target="_blank"}.
 
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+
 ## Fichier minimal pour l'édition en Arabe
 
 ### Pour un document normal
