@@ -4,4 +4,3 @@ description: [Rédiger vos documents et présentations en Latex]
 github:
   is_project_page: false
 use_math: true
-menus: header
