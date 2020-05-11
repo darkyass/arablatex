@@ -5,15 +5,15 @@ Sur votre PC:
   * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
   * [MacTex](http://www.tug.org/mactex/) (MacOSX).
 * Éditeur Latex:
-  * Texstudio (GNU/Linux, Windows, MacOSX)
+  * [Texstudio](https://www.texstudio.org/#download) (GNU/Linux, Windows, MacOSX)
   * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html) (GNU/Linux, Windows, MacOSX)
-  * TeXworks (GNU/Linux, Windows, MacOSX)
+  * [TeXworks](https://www.tug.org/texworks/#Getting_TeXworks) (GNU/Linux, Windows, MacOSX)
   * [Kile](https://kile.sourceforge.io/download.php) (GNU/Linux, Windows)
-  * GNOME LaTeX (GNU/Linux)
-  * WinEdt (Windows)
-  * WinShell (Windows)
-  * TeXnicCenter (Windows)
-  * TeXShop (MacOSX)
+  * [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation) (GNU/Linux)
+  * [WinEdt](http://www.winedt.com/download.html) (Windows)
+  * [WinShell](http://www.winshell.org/download.html) (Windows)
+  * [TeXnicCenter](https://www.texniccenter.org/download/) (Windows)
+  * [TeXShop](https://pages.uoregon.edu/koch/texshop/obtaining.html) (MacOSX)
 
 Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com).
 
