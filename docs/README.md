@@ -6,10 +6,10 @@ Sur votre PC:
   * [MacTex](http://www.tug.org/mactex/) (MacOSX).
 * Éditeur Latex:
   * Texstudio (GNU/Linux, Windows, MacOSX)
-  * Texmaker (GNU/Linux, Windows, MacOSX)
+  * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html) (GNU/Linux, Windows, MacOSX)
   * TeXworks (GNU/Linux, Windows, MacOSX)
+  * [Kile](https://kile.sourceforge.io/download.php) (GNU/Linux, Windows)
   * GNOME LaTeX (GNU/Linux)
-  * Kile (GNU/Linux)
   * WinEdt (Windows)
   * WinShell (Windows)
   * TeXnicCenter (Windows)
