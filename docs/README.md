@@ -14,6 +14,7 @@ Sur votre PC:
   * WinShell (Windows)
   * TeXnicCenter (Windows)
   * TeXShop (MacOSX)
+
 Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com).
 
 ## Fichier minimal pour l'édition en Arabe
