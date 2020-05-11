@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: ["Latex: écrire en Arabe et en Français"]
+title: ["\Latex: écrire en Arabe et en Français"]
 description: [Rédiger vos documents et présentations en Latex]
 github:
   is_project_page: false
+use_math: true
