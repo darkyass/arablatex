@@ -21,8 +21,8 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 
 ## Fichier minimal pour l'édition en Arabe
 
-### Pour un document normal
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### En utilisant le package [polyglossia](https://ctan.org/pkg/polyglossia)
+[polyglossia](https://ctan.org/pkg/polyglossia) est un package de traitement de textes multilingues pour XeLateX.
 
 ```markdown
 Syntax highlighted code block
