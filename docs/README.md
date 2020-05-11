@@ -27,21 +27,21 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 ```latex
 % !TEX TS-program = XeLaTeX
 
-\documentclass{scrreprt}
+\documentclass{article}
 
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \setsansfont{Arial}
-\newfontfamily\greekfont[Script=Greek]{Linux Libertine O}
-\newfontfamily\greekfontsf[Script=Greek]{Linux Libertine O}
+\newfontfamily\arabicfont[Script=Greek]{Linux Libertine O}
+\newfontfamily\arabicfontsf[Script=Greek]{Linux Libertine O}
 \usepackage{polyglossia}
-\setdefaultlanguage{greek}
+\setdefaultlanguage{arabic}
 
 \begin{document}
 \tableofcontents{}
 
-\section{Αυτό είναι ελληνικά.}
-{\bfseries Welcome to Greek:} Αυτό είναι ελληνικά
+\section{المحور الأول}
+{\bfseries مرحبا:} عربي
 
 Or Russian: Привет
 
