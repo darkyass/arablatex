@@ -1,6 +1,6 @@
 markdown: maruku
 theme: jekyll-theme-cayman
-stitle: ["Latex: écrire en Arabe et en Français"]
+title: ["Latex: écrire en Arabe et en Français"]
 description: [Rédiger vos documents et présentations en Latex]
 use_math: true
 github:
