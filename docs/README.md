@@ -41,11 +41,11 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \tableofcontents{}
 
 \section{المحور الأول}
-{\bfseries مرحبا:} عربي
+نص باللغة العربية
 
-Or Russian: Привет
-
-Or Hebrew: מה הבעיה?
+\beginL
+Texte en français
+\endL
 \end{document}
 ```
 ## Fichier minimal pour l'édition en Français
