@@ -32,8 +32,8 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \setsansfont{Arial}
-\newfontfamily\arabicfont[Script=Greek]{Linux Libertine O}
-\newfontfamily\arabicfontsf[Script=Greek]{Linux Libertine O}
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+\newfontfamily\arabicfontsf[Script=Arabic]{Amiri}
 \usepackage{polyglossia}
 \setdefaultlanguage{arabic}
 
