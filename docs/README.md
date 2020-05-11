@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## Configuration requise
 
 You can use the [editor on GitHub](https://github.com/darkyass/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Fichier minimal pour l'édition en Arabe
 
+### Pour un document normal
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -25,6 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## Fichier minimal pour l'édition en Français
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
