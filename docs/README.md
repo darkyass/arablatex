@@ -1,7 +1,7 @@
 ## Configuration requise
 Sur votre PC:
 * Distribution Latex:
-  * [TexLive](http://www.tug.org/texlive/){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [TexLive](http://www.tug.org/texlive/) (GNU/Linux, Windows, MacOSX)
   * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
   * [MacTex](http://www.tug.org/mactex/) (MacOSX).
 * Éditeur Latex:
