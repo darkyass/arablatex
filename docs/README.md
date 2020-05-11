@@ -1,7 +1,12 @@
 ## Configuration requise
 * Distribution Latex:
-  * TexLive (GNU/Linux, Windows), MikTex (Windows), MacTex (MacOSX).
-* Éditeur Latex: Texstudio, Texmaker,
+  * [TexLive](http://www.tug.org/texlive/) (GNU/Linux, Windows, MacOSX)
+  * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
+  * [MacTex](http://www.tug.org/mactex/) (MacOSX).
+* Éditeur Latex:
+  * Texstudio
+  * Texmaker
+  *
 
 You can use the [editor on GitHub](https://github.com/darkyass/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
