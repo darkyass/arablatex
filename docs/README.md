@@ -24,22 +24,29 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 ### En utilisant le package Polyglossia
 [Polyglossia](https://ctan.org/pkg/polyglossia) est un package de traitement de textes multilingues pour XeLateX.
 
-```markdown
-Syntax highlighted code block
+```latex
+% !TEX TS-program = XeLaTeX
 
-# Header 1
-## Header 2
-### Header 3
+\documentclass{scrreprt}
 
-- Bulleted
-- List
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\newfontfamily\greekfont[Script=Greek]{Linux Libertine O}
+\newfontfamily\greekfontsf[Script=Greek]{Linux Libertine O}
+\usepackage{polyglossia}
+\setdefaultlanguage{greek}
 
-1. Numbered
-2. List
+\begin{document}
+\tableofcontents{}
 
-**Bold** and _Italic_ and `Code` text
+\section{Αυτό είναι ελληνικά.}
+{\bfseries Welcome to Greek:} Αυτό είναι ελληνικά
 
-[Link](url) and ![Image](src)
+Or Russian: Привет
+
+Or Hebrew: מה הבעיה?
+\end{document}
 ```
 ## Fichier minimal pour l'édition en Français
 
