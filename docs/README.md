@@ -17,7 +17,7 @@ Sur votre PC:
 
 Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com){:target="_blank"}.
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
+\\[ \frac{1}{n^{2}} \\]
 
 ## Fichier minimal pour l'édition en Arabe
 
