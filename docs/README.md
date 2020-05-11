@@ -1,4 +1,5 @@
 ## Configuration requise
+Sur votre PC:
 * Distribution Latex:
   * [TexLive](http://www.tug.org/texlive/) (GNU/Linux, Windows, MacOSX)
   * [MikTex](https://miktex.org/download) (GNU/Linux, Windows, MacOSX)
@@ -13,10 +14,7 @@
   * WinShell (Windows)
   * TeXnicCenter (Windows)
   * TeXShop (MacOSX)
-
-You can use the [editor on GitHub](https://github.com/darkyass/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ou tout simplement travailler en ligne avec l'application web [Overleaf](https://www.overleaf.com).
 
 ## Fichier minimal pour l'édition en Arabe
 
