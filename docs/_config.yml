@@ -3,5 +3,5 @@ title: ["Latex: écrire en Arabe et en Français"]
 description: [Rédiger vos documents et présentations en Latex]
 #show_downloads: [false]
 header_pages:
-  - rumerica/index.md
+  - index.md
   - about.md
