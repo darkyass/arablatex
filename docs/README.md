@@ -29,10 +29,10 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 
 \documentclass{article}
 
-\usepackage{geometry}% Package pour la mise en page
-\geometry{hmargin=1.5cm,vmargin=1.5cm}% Modification des marges
+\usepackage{geometry}                                          % Package pour la mise en page
+\geometry{hmargin=1.5cm,vmargin=1.5cm}                         % Modification des marges
 
-\usepackage{amsmath,amsfonts,amssymb,fourier}% Packages pour les Maths
+\usepackage{amsmath,amsfonts,amssymb,fourier}                  % Packages pour les Maths
 
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
@@ -42,11 +42,11 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \usepackage{polyglossia}
 \setdefaultlanguage[locale=morocco]{arabic}
 
-\addto\captionsarabic{% Changement du titre du sommaire
+\addto\captionsarabic{                                         % Changement du titre du sommaire
   \renewcommand{\contentsname}{محتوى الدرس}
 }
-\usepackage{tocloft}% Package pour la modification du sommaire
-\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}% Ajout des pointillés au sommaire
+\usepackage{tocloft}                                           % Package pour la modification du sommaire
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}          % Ajout des pointillés au sommaire
 
 \begin{document}
 \tableofcontents{}
