@@ -32,7 +32,7 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \usepackage{geometry}                                          % Package pour la mise en page
 \geometry{hmargin=1.5cm,vmargin=1.5cm}                         % Modification des marges
 
-\usepackage{amsmath,amsfonts,amssymb,fourier}                  % Packages pour les Maths
+\usepackage{amsmath,amsfonts,amssymb,fourier}                  % Packages pour les formules Maths
 
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
