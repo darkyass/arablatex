@@ -22,9 +22,13 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 ## Exemple pour l'édition en Arabe
 
 ### En utilisant le package Babel
+[Polyglossia](https://www.ctan.org/pkg/babel){:target="_blank"} est un package de traitement de textes multilingues pour PdfLaTeX.
+```latex
+code
+```
 
 ### En utilisant le package Polyglossia
-[Polyglossia](https://ctan.org/pkg/polyglossia){:target="_blank"} est un package de traitement de textes multilingues pour XeLateX.
+[Babel](https://ctan.org/pkg/polyglossia){:target="_blank"} est un package de traitement de textes multilingues pour XeLaTeX.
 
 ```latex
 % !TEX TS-program = XeLaTeX
