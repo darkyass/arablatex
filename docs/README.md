@@ -19,7 +19,9 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 
 \\[ \frac{1}{n^{2}} \\]
 
-## Fichier minimal pour l'édition en Arabe
+## Exemple pour l'édition en Arabe
+
+### En utilisant le package Babel
 
 ### En utilisant le package Polyglossia
 [Polyglossia](https://ctan.org/pkg/polyglossia){:target="_blank"} est un package de traitement de textes multilingues pour XeLateX.
