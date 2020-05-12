@@ -30,9 +30,10 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \usepackage{arabtex}
 \usepackage[utf8]{inputenc}
 \usepackage[LFE,LAE]{fontenc}
-\usepackage[arabic]{babel}
+\usepackage[french,arabic]{babel}
 
 \begin{document}
+\selectlanguage{arabic}
 \tableofcontents{}
 
 \clearpage
@@ -40,9 +41,9 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \section{المحور الأول}
 \subsection{الجزء الأول}
 نص باللغة العربية
-\beginL
-Texte en français
-\endL
+\textLR{
+  Texte en français
+}
 
 \subsection{الجزء الثاني}
 عبارة رياضية
