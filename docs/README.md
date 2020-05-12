@@ -29,23 +29,45 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 
 \documentclass{article}
 
+\usepackage{geometry}% Package pour la mise en page
+\geometry{hmargin=1.5cm,vmargin=1.5cm}% Modification des marges
+
+\usepackage{amsmath,amsfonts,amssymb,fourier}% Packages pour les Maths
+
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \setsansfont{Arial}
-\newfontfamily\arabicfont[Script=Arabic]{Amiri}
-\newfontfamily\arabicfontsf[Script=Arabic]{Amiri}
+\newfontfamily\arabicfont[Scale=1.15,Script=Arabic]{Amiri}
+\newfontfamily\arabicfontsf[Scale=1.15,Script=Arabic]{Amiri}
 \usepackage{polyglossia}
-\setdefaultlanguage{arabic}
+\setdefaultlanguage[locale=morocco]{arabic}
+
+\addto\captionsarabic{% Changement du titre du sommaire
+  \renewcommand{\contentsname}%
+    {محتوى الدرس}%
+}
+\usepackage{tocloft}% Package pour la modification du sommaire
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}% Ajout des pointillés au sommaire
 
 \begin{document}
 \tableofcontents{}
 
-\section{المحور الأول}
-نص باللغة العربية
+\clearpage
 
+\section{المحور الأول}
+\subsection{الجزء الأول}
+نص باللغة العربية
 \beginL
 Texte en français
 \endL
+
+\subsection{الجزء الثاني}
+عبارة رياضية
+$\lim\limits_{x\to+\infty}f(x)=1$
+
+\section{المحور الثاني}
+\subsection{الجزء الأول}
+\subsection{الجزء الثاني}
 \end{document}
 ```
 Voir le résultat de la compilation sur [Overleaf](https://www.overleaf.com/4113516389mcdcrhbtwxgh)
