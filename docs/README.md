@@ -43,8 +43,7 @@ Ou tout simplement travailler en ligne avec l'application web [Overleaf](https:/
 \setdefaultlanguage[locale=morocco]{arabic}
 
 \addto\captionsarabic{% Changement du titre du sommaire
-  \renewcommand{\contentsname}%
-    {محتوى الدرس}%
+  \renewcommand{\contentsname}{محتوى الدرس}
 }
 \usepackage{tocloft}% Package pour la modification du sommaire
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}% Ajout des pointillés au sommaire
