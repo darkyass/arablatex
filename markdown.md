@@ -2,7 +2,7 @@
 
 
 
-## Configuration requise
+## Configuration requise 1
 
 * Distribution Latex:
   * [TexLive](http://www.tug.org/texlive/){:target="_blank"} (GNU/Linux, Windows, MacOSX)
@@ -10,7 +10,7 @@
   * [MacTex](http://www.tug.org/mactex/){:target="_blank"} (MacOSX).
 
 
-## Configuration requise
+## Configuration requise 2
 
 * Éditeur Latex:
   * [Texstudio](https://www.texstudio.org/#download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
