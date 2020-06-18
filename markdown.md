@@ -27,17 +27,27 @@
 
 ## Éditeur Latex en ligne
 
-*<a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
+* <a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
 
 
 
-## External 2
+# Exemple minimal
+
+
+## En utilisant le package Polyglossia
 
 Content 2.1
 
 
+## En utilisant le package babel
 
-## External 3.1
+Content 2.2
+
+
+
+### External 3.1
+
+
 
 Content 3.1
 
