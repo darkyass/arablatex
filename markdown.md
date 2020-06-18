@@ -2,26 +2,27 @@
 
 
 
-## Configuration requise 1
-
-* Distribution Latex:
-  * <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
-  * <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
-  * <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
+# Configuration requise
 
 
-## Configuration requise 2
+## Distribution Latex requise
 
-* Éditeur Latex:
-  * [Texstudio](https://www.texstudio.org/#download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
-  * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html){:target="_blank"} (GNU/Linux, Windows, MacOSX)
-  * [TeXworks](https://www.tug.org/texworks/#Getting_TeXworks){:target="_blank"} (GNU/Linux, Windows, MacOSX)
-  * [Kile](https://kile.sourceforge.io/download.php){:target="_blank"} (GNU/Linux, Windows)
-  * [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation){:target="_blank"} (GNU/Linux)
-  * [WinEdt](http://www.winedt.com/download.html){:target="_blank"} (Windows)
-  * [WinShell](http://www.winshell.org/download.html){:target="_blank"} (Windows)
-  * [TeXnicCenter](https://www.texniccenter.org/download/){:target="_blank"} (Windows)
-  * [TeXShop](https://pages.uoregon.edu/koch/texshop/obtaining.html){:target="_blank"} (MacOSX)
+* <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
+* <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
+* <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
+
+
+## Éditeur Latex requis
+
+* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> (GNU/Linux, Windows, MacOSX)
+* <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> (GNU/Linux, Windows, MacOSX)
+* <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> (GNU/Linux, Windows, MacOSX)
+* <a href="https://kile.sourceforge.io/download.php" target="_blank">Kile</a> (GNU/Linux, Windows)
+* <a href="https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation" target="_blank">GNOME LaTeX</a> (GNU/Linux)
+* <a href="http://www.winedt.com/download.html" target="_blank">WinEdt</a> (Windows)
+* <a href="http://www.winshell.org/download.html" target="_blank">WinShell</a> (Windows)
+* <a href="https://www.texniccenter.org/download/" target="_blank">TeXnicCenter</a> (Windows)
+* <a href="https://pages.uoregon.edu/koch/texshop/obtaining.html" target="_blank">TeXShop</a> (MacOSX)
 
 
 
