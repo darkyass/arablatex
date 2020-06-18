@@ -5,10 +5,9 @@
 ## Configuration requise 1
 
 * Distribution Latex:
-  * <a href="http://example.com/" target="_blank">Hello, world!</a>
-  * [TexLive](http://www.tug.org/texlive/){:target="_blank"} (GNU/Linux, Windows, MacOSX)
-  * [MikTex](https://miktex.org/download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
-  * [MacTex](http://www.tug.org/mactex/){:target="_blank"} (MacOSX).
+  * <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
+  * <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
+  * <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
 
 
 ## Configuration requise 2
