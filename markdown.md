@@ -1,17 +1,27 @@
-# Markdown Demo
+# Tuto Latex, éditer en Arabe
 
 
 
-## External 1.1
+## Configuration requise
 
-Content 1.1
+* Distribution Latex:
+  * [TexLive](http://www.tug.org/texlive/){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [MikTex](https://miktex.org/download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [MacTex](http://www.tug.org/mactex/){:target="_blank"} (MacOSX).
 
-Note: This will only appear in the speaker notes window.
 
+## Configuration requise
 
-## External 1.2
-
-Content 1.2
+* Éditeur Latex:
+  * [Texstudio](https://www.texstudio.org/#download){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [Texmaker](https://www.xm1math.net/texmaker/download_fr.html){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [TeXworks](https://www.tug.org/texworks/#Getting_TeXworks){:target="_blank"} (GNU/Linux, Windows, MacOSX)
+  * [Kile](https://kile.sourceforge.io/download.php){:target="_blank"} (GNU/Linux, Windows)
+  * [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation){:target="_blank"} (GNU/Linux)
+  * [WinEdt](http://www.winedt.com/download.html){:target="_blank"} (Windows)
+  * [WinShell](http://www.winshell.org/download.html){:target="_blank"} (Windows)
+  * [TeXnicCenter](https://www.texniccenter.org/download/){:target="_blank"} (Windows)
+  * [TeXShop](https://pages.uoregon.edu/koch/texshop/obtaining.html){:target="_blank"} (MacOSX)
 
 
 
