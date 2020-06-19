@@ -30,16 +30,67 @@
 * <a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
 
 
+## Package Latex requis
+
+* <a href="https://ctan.org/pkg/polyglossia" target="_blank">Polyglossia</a>: un package de traitement de textes multilingues pour XeLaTeX.
+* <a href="https://www.ctan.org/pkg/babel" target="_blank">Babel</a>: un package de traitement de textes multilingues pour PdfLaTeX.
+
+
 
 # Exemple minimal
 
 
-## En utilisant le package Polyglossia
+## En utilisant <br> le package Polyglossia
 
-Content 2.1
+```latex
+% !TEX TS-program = XeLaTeX
+
+\documentclass{article}
+
+\usepackage{geometry}                                          % Package pour la mise en page
+\geometry{hmargin=1.5cm,vmargin=1.5cm}                         % Modification des marges
+
+\usepackage{amsmath,amsfonts,amssymb,fourier}                  % Packages pour les formules Maths
+
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\newfontfamily\arabicfont[Scale=1.15,Script=Arabic]{Amiri}
+\newfontfamily\arabicfontsf[Scale=1.15,Script=Arabic]{Amiri}
+\usepackage{polyglossia}
+\setdefaultlanguage[locale=morocco]{arabic}
+
+\addto\captionsarabic{                                         % Changement du titre du sommaire
+  \renewcommand{\contentsname}{محتوى الدرس}
+}
+\usepackage{tocloft}                                           % Package pour la modification du sommaire
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}          % Ajout des pointillés au sommaire
+
+\begin{document}
+\tableofcontents{}
+
+\clearpage
+
+\section{المحور الأول}
+\subsection{الجزء الأول}
+نص باللغة العربية
+\beginL
+Texte en français
+\endL
+
+\subsection{الجزء الثاني}
+عبارة رياضية
+$\lim\limits_{x\to+\infty}f(x)=1$
+
+\section{المحور الثاني}
+\subsection{الجزء الأول}
+\subsection{الجزء الثاني}
+\end{document}
+```
 
 
-## En utilisant le package babel
+
+## En utilisant <br> le package babel
 
 Content 2.2
 
