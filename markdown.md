@@ -89,10 +89,39 @@ $\lim\limits_{x\to+\infty}f(x)=1$
 ```
 
 
-
 ## En utilisant <br> le package babel
 
-Content 2.2
+```latex
+% !TEX TS-program = PdfLaTeX
+
+\documentclass{article}
+\usepackage{arabtex}
+\usepackage[utf8]{inputenc}
+\usepackage[LFE,LAE]{fontenc}
+\usepackage[french,arabic]{babel}
+
+\begin{document}
+\selectlanguage{arabic}
+\tableofcontents{}
+
+\clearpage
+
+\section{المحور الأول}
+\subsection{الجزء الأول}
+نص باللغة العربية
+\textLR{
+  Texte en français
+}
+
+\subsection{الجزء الثاني}
+عبارة رياضية
+$\lim\limits_{x\to+\infty}f(x)=1$
+
+\section{المحور الثاني}
+\subsection{الجزء الأول}
+\subsection{الجزء الثاني}
+\end{document}
+```
 
 
 
