@@ -87,6 +87,7 @@ $\lim\limits_{x\to+\infty}f(x)=1$
 \subsection{الجزء الثاني}
 \end{document}
 ```
+Voir le résultat de la compilation sur <a href="https://www.overleaf.com/read/pkbfqbsnfvvp" target="_blank">Overleaf</a>.
 
 
 ## En utilisant <br> le package babel
@@ -122,21 +123,10 @@ $\lim\limits_{x\to+\infty}f(x)=1$
 \subsection{الجزء الثاني}
 \end{document}
 ```
+Voir le résultat de la compilation sur <a href="https://www.overleaf.com/read/yctcdfpxjjcr" target="_blank">Overleaf</a>.
 
 
 
-### External 3.1
-
-
-
-Content 3.1
-
-
-## External 3.2
-
-Content 3.2
-
-
-## External 3.3
+### Fin
 
 ![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
