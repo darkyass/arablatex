@@ -17,10 +17,10 @@
 * <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> (GNU/Linux, Windows, MacOSX)
 * <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> (GNU/Linux, Windows, MacOSX)
 * <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> (GNU/Linux, Windows, MacOSX)
+* <a href="http://www.winshell.org/#download" target="_blank">WinShell</a> (GNU/Linux, Windows, MacOSX)
 * <a href="https://kile.sourceforge.io/download.php" target="_blank">Kile</a> (GNU/Linux, Windows)
 * <a href="https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation" target="_blank">GNOME LaTeX</a> (GNU/Linux)
 * <a href="http://www.winedt.com/download.html" target="_blank">WinEdt</a> (Windows)
-* <a href="http://www.winshell.org/download.html" target="_blank">WinShell</a> (Windows)
 * <a href="https://www.texniccenter.org/download/" target="_blank">TeXnicCenter</a> (Windows)
 * <a href="https://pages.uoregon.edu/koch/texshop/obtaining.html" target="_blank">TeXShop</a> (MacOSX)
 
