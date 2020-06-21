@@ -3,6 +3,7 @@
 
 
 
+<!-- .slide: data-background="#000000" -->
 # Configuration requise
 
 
@@ -38,6 +39,7 @@
 
 
 
+<!-- .slide: data-background="#000000" -->
 # Exemple minimal
 
 
@@ -128,6 +130,7 @@ Voir le résultat de la compilation sur <a href="https://www.overleaf.com/read/y
 
 
 
-### Fin
+<!-- .slide: data-background="#000000" -->
+# Fin
 
 ![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
