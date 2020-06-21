@@ -21,8 +21,7 @@
                 <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
                 <section data-markdown="markdown.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
 
-                <!-- Slides are separated by three dashes (quick 'n dirty regular expression) -->
-		[//]: <> (
+                <!-- Slides are separated by three dashes (quick 'n dirty regular expression)
                 <section data-markdown data-separator="---">
                     <script type="text/template">
                         ## Demo 1
@@ -35,7 +34,7 @@
                         Slide 3
                     </script>
                 </section>
-		)
+		-->
 
                 <!-- Slides are separated by newline + three dashes + newline, vertical slides identical but two dashes
                 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
@@ -68,25 +67,6 @@
                         ---
 
                         C
-                    </script>
-                </section>
-		-->
-
-                <!-- Slide attributes
-                <section data-markdown>
-                    <script type="text/template">
-                        <!-- .slide: data-background="#000000" -->
-                        ## Slide attributes
-                    </script>
-                </section>
-		-->
-
-                <!-- Element attributes
-                <section data-markdown>
-                    <script type="text/template">
-                        ## Element attributes
-                        - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-                        - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
                     </script>
                 </section>
 		-->
