@@ -7,14 +7,14 @@
 # Configuration requise
 
 
-## Distribution Latex requise
+## Installer une distribution Latex
 
 * <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
 * <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
 * <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
 
 
-## Éditeur Latex requis
+## Et installer un éditeur Latex
 
 * <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> (GNU/Linux, Windows, MacOSX)
 * <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> (GNU/Linux, Windows, MacOSX)
@@ -27,15 +27,15 @@
 * <a href="https://pages.uoregon.edu/koch/texshop/obtaining.html" target="_blank">TeXShop</a> (MacOSX)
 
 
-## Éditeur Latex en ligne
+## Ou simplement utilser <br> un éditeur Latex en ligne
 
 * <a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
 
 
-## Package Latex requis
+## Un package Latex de traitement de textes multilingues
 
-* <a href="https://ctan.org/pkg/polyglossia" target="_blank">Polyglossia</a>: un package de traitement de textes multilingues pour XeLaTeX.
-* <a href="https://www.ctan.org/pkg/babel" target="_blank">Babel</a>: un package de traitement de textes multilingues pour PdfLaTeX.
+* <a href="https://ctan.org/pkg/polyglossia" target="_blank">Polyglossia</a> pour compilation XeLaTeX.
+* <a href="https://www.ctan.org/pkg/babel" target="_blank">Babel</a> pour compilation PdfLaTeX.
 
 
 
