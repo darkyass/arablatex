@@ -141,4 +141,4 @@ Voir le résultat de la compilation sur <a href="https://www.overleaf.com/read/y
 <!-- .slide: data-background="#000000" -->
 # Fin
 
-![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
+<!--- ![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png) -->
