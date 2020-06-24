@@ -58,10 +58,10 @@
 
 \documentclass{article}
 
-\usepackage{geometry}                                          % Package pour la mise en page
-\geometry{hmargin=1.5cm,vmargin=1.5cm}                         % Modification des marges
+\usepackage{geometry}
+\geometry{hmargin=1.5cm,vmargin=1.5cm}
 
-\usepackage{amsmath,amsfonts,amssymb,fourier}                  % Packages pour les formules Maths
+\usepackage{amsmath,amsfonts,amssymb,fourier}
 
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
@@ -71,11 +71,11 @@
 \usepackage{polyglossia}
 \setdefaultlanguage[locale=morocco]{arabic}
 
-\addto\captionsarabic{                                         % Changement du titre du sommaire
+\addto\captionsarabic{ 
   \renewcommand{\contentsname}{محتوى الدرس}
 }
-\usepackage{tocloft}                                           % Package pour la modification du sommaire
-\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}          % Ajout des pointillés au sommaire
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 
 \begin{document}
 \tableofcontents{}
@@ -104,13 +104,18 @@ Voir le résultat de la compilation sur <a href="https://www.overleaf.com/read/b
 ## En utilisant <br> le package babel
 
 ```latex
-% !TEX TS-program = PdfLaTeX
+% !TEX TS-program = pdflaTeX
 
 \documentclass{article}
-\usepackage{arabtex}
 \usepackage[utf8]{inputenc}
 \usepackage[LFE,LAE]{fontenc}
 \usepackage[french,arabic]{babel}
+\frenchsetup{SuppressWarning}
+
+\usepackage{etoolbox}
+\renewcommand \thesection {\textLR{\arabic{section}}}
+\renewcommand \thesubsection {\thesection.\textLR{\arabic{subsection}}}
+\renewcommand \thepage {\textLR{\arabic{page}}}
 
 \begin{document}
 \selectlanguage{arabic}
